@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "test-include": {
+      "description": "A schematics that demonstrates include template function",
+      "factory": "./test-include/index"
+    }
+  }
+}
